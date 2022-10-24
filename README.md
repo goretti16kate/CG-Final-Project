@@ -19,7 +19,7 @@ You may need to tinker with it to manually include the IP address of the vulnera
 
 The recon.sh includes a bit of recon and is the longer version of project.sh.
 
-``` ./recon.sh <IP address>  ``
+``` ./recon.sh <IP address> ```
 
 ## Contributing
 Pull requests are welcome. For significant changes, please open an issue to discuss what you would like to change.
